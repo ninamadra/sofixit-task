@@ -2,8 +2,7 @@
 
 ## Problem Description
 
-This project provides a solution for calculating the amount of trapped material between the walls formed by terrain heights and holes on a spaceship. The implementation is based on the well-known problem of trapping rainwater in a sequence of terrains with different heights.
-
+This project provides a solution for calculating the amount of trapped material between the walls formed by terrain heights and holes on a spaceship.
 The core problem involves determining the volume of trapped material between the heights of the terrain while considering negative values as holes in the terrain.
 
 ## Implementation
